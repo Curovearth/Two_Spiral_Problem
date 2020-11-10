@@ -24,3 +24,6 @@ In an example experiment the generalization ability of a state of the art approa
 
  1. [LJV Miranda using PSO(Particle Swarm Optimisation)](https://ljvmiranda921.github.io/notebook/2017/01/17/pso-trained-neural-network-for-solving-the-two-spiral-problem/)
  2. [Research Paper on Variations of Two Spiral Task](https://www.researchgate.net/publication/220233514_Variations_of_the_two-spiral_task)
+
+## Presentation
+For better understanding on the following problem, I request you to please refer the powerpoint presentation which I have attached where you can see the explanation of code in depth. The following problem was taken as a project for my Engineering Optimisation subject.
