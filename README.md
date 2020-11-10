@@ -1,5 +1,6 @@
 ![Spiral Problem](https://drive.google.com/uc?export=view&id=1eouDCenftDG6jearqI1VmAINLMpVNKW-)
-# THE TWO SPIRAL PROBLEM ! using Stochastic Gradient Descent	
+# THE TWO SPIRAL PROBLEM ! 
+# using Stochastic Gradient Descent	
 ## CONTENT
 
  - [Abstract](##Abstract)
