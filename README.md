@@ -14,7 +14,6 @@ Stochastic Gradient Descent (often abbreviated as SGD) is an iterative method fo
  - **Background :** The two-spiral problem is a classification task that consists of deciding in which of two interlocking spiral-shaped regions a given coordinate lies. The interlocking spiral shapes are chosen for this problem because they are not linearly separable. Thus the two-spiral task became a well known benchmark for binary classification and since it had visual appeal, it was convenient to use in pilot studies.
  - **Objective:** To achieve the separation of the 2 different spiral s with the help of the neural network and we know that this is pixelate due to less training time in terms of epochs so if we tend to train for more time then it would result to much smoother spiral distinction.
 
-## Design 
 ## Application
 Basically the idea of the spiral problem was derived from the spirals which occur naturally in galaxies, Cyclones, eddy currents in liquid, Shells and then DNA etc.
 ## Conclusion
